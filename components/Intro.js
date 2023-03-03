@@ -22,7 +22,7 @@ export default function Intro(params) {
       <a href="">Contact me </a>
     </div>
     <div>
-      <img src="/img/harshit.png" alt="" />
+      <img src="/img/har.png" alt="" />
     </div>
     </section> 
     )

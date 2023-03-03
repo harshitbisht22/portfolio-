@@ -17,7 +17,7 @@ export default function Intro(params) {
     <div>
       <p>
         I am <span>Harshit Bisht</span> <br/> 
-        developer
+        Web developer & Part Time Designer
       </p>
       <a href="">Contact me </a>
     </div>

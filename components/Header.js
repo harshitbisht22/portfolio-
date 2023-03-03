@@ -4,9 +4,9 @@ export default function Header(params) {
         <header>
   <img className="logo" src="/img/h.png" alt="logo"  />
   <nav>
-    <a href="About"> About</a>
-    <a href="Portfolio">Portfolio</a>
-    <a href="Contact">Contact</a>
+    <a href="#About"> About</a>
+    <a href="#Portfolio">Portfolio</a>
+    <a href="#Contact">Contact</a>
     </nav>
     <div className="social">
     <a href="https://github.com/harshitbisht22">

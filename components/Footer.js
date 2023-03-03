@@ -14,6 +14,11 @@ export default function Footer() {
           <div className="line"></div>
         </div>
         <h2>Thanks for scrolling</h2>
+        <div className="resume">
+        <a href="./img/Harshit.pdf" download>Download Resume </a>
+        </div>
+        
+        
       </footer>
     );
   }

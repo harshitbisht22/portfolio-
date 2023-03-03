@@ -17,6 +17,7 @@ footer{
       .line{
         flex-grow: 1;
         border-top: 2px solid $gold;
+        
       }
     }
     h2{
@@ -27,4 +28,19 @@ footer{
       font-weight:normal;
       font-size:2rem;
     }
+    
+    div.resume{
+
+     text-align: center;
+      a{
+
+        font-family: 'Source Serif Pro', serif;
+        font-size: 2rem;
+        margin-bottom: 10px;
+        color:$gold;
+        
+      }
+    }
+    
   }
+  
